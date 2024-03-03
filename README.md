@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Powered By Billal" tvg-logo="",Billal IPTV Pro
+https://i.postimg.cc/sxQMdvDP/20240303-181601.png
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/d0xt9Jwz/1280px-ATN-Bangla-svg.png",ATN Bangla
+https://s.id/Atnbangbd
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/1RgMBBcT/DBC-News-Logo-svg.png",DBC News
+https://s.id/DBCnews
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Fs64qD2L/images.jpg",Sony Aath
+https://s.id/Sony8
 
-#EXTINF:-1 group-title="Powered By Habib" tvg-logo="https://i.imgur.com/rTH9cWg.png",Habib Tv 
-https://i.imgur.com/KustFYl.mp4
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/jq1x7FX1/IMG-20240229-121142-494.jpg",Hasan Tv 2 EXTINF:-1 tvg-id="" tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/chunks.m3u8
