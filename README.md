@@ -23,7 +23,7 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/QaTnRJq.png",colours Bangla
-https://livegeoroueu.akamaized.net/120723/smil:colorsbanglahd1.smil/chunklist_b896000.m3u8?hdntl=exp=1710171312~acl=!*/120723/smil:colorsbanglahd1.smil/*!yuppTVCom_61_-1_4511433cc3494121_BD_103.87.236.190/payload/yuppTVCom_61_-1_4511433cc3494121_BD_103.87.236.190/*~data=hdntl~hmac=b2bf11ad2e2829595dcdee531c3395d3fdc5949d069bea658f7d54ab5af96d91
+https://bongodrive.pw/bioscope.m3u8?id=colors-bangla
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/smvUcUd.png",Desi Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
