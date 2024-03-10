@@ -13,6 +13,9 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/1XbLh7yx/download.png", Channel I
 https://ythls-v2.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/k47vhQ8n/Somoy-TV-logo.png",Somoy News tv
+https://ythls-v2.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+
 
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/QaTnRJq.png",R Bangla
