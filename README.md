@@ -20,7 +20,10 @@ https://ythls-v2.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/QaTnRJq.png",R Bangla
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/ea56bdf9-cd83-4fbf-ae9a-db1c383ba08f/2.m3u8
-ads.partner=Watcho&sessionId=488883c7-6695-4b7a-a72a-a91e4156dac9
+
+
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/QaTnRJq.png",colours Bangla
+https://livegeoroueu.akamaized.net/120723/smil:colorsbanglahd1.smil/chunklist_b896000.m3u8?hdntl=exp=1710170613~acl=!*/120723/smil:colorsbanglahd1.smil/*!yuppTVCom_61_-1_4511433cc3494121_BD_103.87.236.190/payload/yuppTVCom_61_-1_4511433cc3494121_BD_103.87.236.190/*~data=hdntl~hmac=970bb95f780b9a05f7a5de883748ae48957bf42786e7c1f61f9b74c40df5add8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/smvUcUd.png",Desi Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
