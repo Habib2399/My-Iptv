@@ -25,7 +25,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg",Star Movies HD
 http://xtv.ooo:8080/live/T4S00515/820172/66213.ts
 
-#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://ibb.co/W2D0NP5",FASHION TV
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://ibb.co/W2D0NP5", FASHION TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/variant.m3u8?url=a3c76fd0163344ff392bafcb3356d7be-f1933bfe86e1e34c9233375d7471ac4953ab86ec9d9ad7298d95741e19cf07ca49540f4fbddd3db54a3dbf5301f2cd291f60610033b16a0cad5153094f638a89a62cc0c26a2e0ff7655f2cc1fd8dc20a5139eddfe624b8d54017c02809d7f64e78f6622a73f8ea11b66a50f57ba5ba2c7b25c2bff5e8ff631da59449bde4462ac4a133a2297db4dc15b2bf031055c90af76048972f910ebe06cf0d9034668b8a65fa660953844091c428deb75023c9e88aae6bf4b66c963dd0f22dbb0dab30bdf199f0544b77d9b4e31c3dcf67f339dc&x-plex-token=4UNTuXfhagy2yVBzqZUr&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1710074115
 
 #EXTINF:-1 group-title="TV SHOW" tvg-logo="https://i.imgur.com/AZwQQ3t.png",The Kapil Sharma Show
