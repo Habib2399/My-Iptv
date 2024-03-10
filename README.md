@@ -16,8 +16,8 @@ ads.partner=Watcho&sessionId=488883c7-6695-4b7a-a72a-a91e4156dac9
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/smvUcUd.png",Desi Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/jq1x7FX1/IMG-20240229-121142-494.jpg",Hasan Tv 2
-https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/7aeb6909-bd40-498d-ab2f-1d559702da79/2.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/smvUcUd.png",24/7 music 20
+http://xtv.ooo:8080/T4S00515/820172/362865
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ktgkqwj.png",Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
