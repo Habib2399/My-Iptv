@@ -10,6 +10,11 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/0QR8v4jC/NOBANNOtv-10-Copy-1024x402-1.png",Nobanno TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/1XbLh7yx/download.png", Channel I
+https://ythls-v2.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+
+
+
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/QaTnRJq.png",R Bangla
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/ea56bdf9-cd83-4fbf-ae9a-db1c383ba08f/2.m3u8
 ads.partner=Watcho&sessionId=488883c7-6695-4b7a-a72a-a91e4156dac9
