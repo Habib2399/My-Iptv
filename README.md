@@ -19,6 +19,10 @@ https://ythls-v2.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/k47vhQ8n/Somoy-TV-logo.png",Somoy News tv
 https://ythls-v2.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/3r1kctc4/Rtv-bangladesh-svg.png",Rtv
+https://ythls-v2.onrender.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+
+
 
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/QaTnRJq.png",R Bangla
