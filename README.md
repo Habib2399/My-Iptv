@@ -24,6 +24,9 @@ https://ythls-v2.onrender.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/pThp5vBg/images-1.jpg",Jamuna Tv
 https://ythls-v2.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/4dFGRhkc/images-2.jpg",DBC NEWS
+https://ythls-v2.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+
 
 
 
