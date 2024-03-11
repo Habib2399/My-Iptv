@@ -21,6 +21,9 @@ https://ythls-v2.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/3r1kctc4/Rtv-bangladesh-svg.png",Rtv
 https://ythls-v2.onrender.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/pThp5vBg/images-1.jpg",Jamuna Tv
+https://ythls-v2.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+
 
 
 
