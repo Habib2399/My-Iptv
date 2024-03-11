@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/1z9MsnMv/images.jpg",Holy Quran Tv
+https://ythls-v2.onrender.com/channel/.UCjq6ov_0eSez2vv7z9xCBRQ.m3u8
+
 
 
 
